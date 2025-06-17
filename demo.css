@@ -1,0 +1,14 @@
+.container{
+    background-color: black;
+    height: 500px;
+    width: 500px;
+    position: fixed;
+}
+.boxone{
+    height: 100px;
+    width: 100px;
+    background-color: antiquewhite;
+    position: fixed;
+    justify-content: center;
+    top: 10px;
+}

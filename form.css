@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(237, 240, 239);
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.form {
+    
+    background-color:beige;
+    border: 5cm;
+    border-width: 5cm;
+    text-align: center;
+    font-family: sans-serif;
+    font-variant:small-caps
+}
+
+.bg2{
+border-color: black;
+    border-width: 2px;
+    border-style: solid;
+      
+
+}
+.button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: aquamarine;
+    border-style:outset
+}

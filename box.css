@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+}
+.box1 {
+    border:  solid black;
+    border-width: 10px;
+    display: flex;
+    margin: 5rem;
+    text-align: center;
+    justify-content: center;
+    width: 16rem;
+    height: 10rem;
+}
